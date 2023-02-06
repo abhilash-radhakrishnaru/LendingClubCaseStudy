@@ -1,8 +1,12 @@
 # Lending Club CaseStudy
 
+**About the Company**
+
+LendingClub is a financial services company headquartered in San Francisco, California. LendingClub enabled borrowers to create unsecured personal loans. The standard loan period was three years. Investors were able to search and browse the loan listings on LendingClub website and select loans that they wanted to invest in based on the information supplied about the borrower, amount of loan, loan grade, and loan purpose. Investors made money from the interest on these loans. LendingClub made money by charging borrowers an origination fee and investors a service fee.
+
 **Problem statement**
 
-The case study analyses the loan past loan details for Lending Club company. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
@@ -30,4 +34,15 @@ Step5: Bivariate Analysis
   
 Step6: Consolidate and document the findings
   Consolidate the findings from different analysis techniques used and document the results. The results will be captured in a pdf document with easy graphical representations so that even a business person with even lesser technical experience can understand the results and take actions accordingly.
+
+
+**References:**
+My LendingClub - LendingClub Official Site
+
+Lending Club
+  https://www.lendingclub.com
+
+  https://www.marlo.online/loan-grades
+
+  https://www.lendingclub.com/foliofn/rateDetail.action
 
